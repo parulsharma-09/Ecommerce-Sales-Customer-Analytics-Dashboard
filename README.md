@@ -4,7 +4,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Coming_Soon-lightgrey?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-Coming_Soon-lightgrey?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -44,8 +43,7 @@ The project demonstrates the complete Data Analytics workflow, including Data Cl
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-- SQL *(Coming Soon)*
-- Power BI *(Coming Soon)*
+- Power BI
 - Git & GitHub
 
 ---
@@ -59,7 +57,7 @@ The project demonstrates the complete Data Analytics workflow, including Data Cl
 5. Feature Engineering
 6. Business Insights
 7. Business Recommendations
-8. Dashboard Development *(Upcoming)*
+8. Dashboard Development 
 
 ---
 
@@ -145,7 +143,6 @@ Ecommerce-Sales-Customer-Analytics-Dashboard/
 
 ├── Python/
 
-├── SQL/
 
 ├── PowerBI/
 
@@ -179,7 +176,6 @@ Ecommerce-Sales-Customer-Analytics-Dashboard/
 ## Author
 
 **Parul Sharma**
-
-MCA Graduate | Aspiring Data Analyst
+ Aspiring Data Analyst
 
 GitHub: https://github.com/parulsharma-09
